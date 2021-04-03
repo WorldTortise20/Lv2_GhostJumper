@@ -19,6 +19,7 @@ function setup(){
   createCanvas(600,600);
   alert("Hold space to keep the ghost up and use Arrow keys to move the ghost!");
   alert("The gold squares are your points! Grab 20 of them to escape!");
+  alert("WARNING: Loud sounds! You have been warned!");
   
   tower = createSprite(300,300);
   tower.addImage(tI);
