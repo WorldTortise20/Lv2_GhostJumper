@@ -45,7 +45,7 @@ function draw(){
   text("Score: "+score,300,300);
 
   if(score>20){
-    alert("A winner is you!")
+    alert("A winner is you! Copy this link into the url for the final trial!    https://worldtortise20.github.io/Lv3Quiz/")
   }
 }
 
